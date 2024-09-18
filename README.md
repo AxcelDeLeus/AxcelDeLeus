@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![github-header-image](https://github.com/user-attachments/assets/ce1e9eaa-ca04-4ce2-9bd1-d949978c2b5e)
+  ![](https://github.com/AxcelDeLeus/headergithub.gif)
 
   <h1>💫 About Me:</h1>
   <p>Hello there! I'm a 19-year-old resident of Soldiers Hills 4, Alonzo Comp. in Bacoor City, Cavite, currently embarking on an exciting journey as a first-year student at Cavite State University - Bacoor City Campus. My name is Axcel, and I'm passionate about technology, which is why I've chosen to pursue a Bachelor of Science in Information Technology (BSIT) program. With a keen interest in coding and software development, I'm eager to dive into my studies and explore the endless possibilities that the field of IT offers.</p>
