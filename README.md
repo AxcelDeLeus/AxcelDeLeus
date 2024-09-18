@@ -12,8 +12,6 @@ Hello there! I'm an 19-year-old resident of Soldiers Hills 4, Alonzo Comp. in Ba
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AxcelDeLeus&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AxcelDeLeus&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AxcelDeLeus&limit=5&theme=dark&combine_all_yearly_contributions=true)
