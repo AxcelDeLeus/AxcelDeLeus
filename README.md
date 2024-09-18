@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 
   ## 📊 GitHub Stats:
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxcelDeLeus&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AxcelDeLeus&theme=gruvbox_light&hide_border=false)<br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxcelDeLeus&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxcelDeLeus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AxcelDeLeus&theme=dark&hide_border=false)<br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxcelDeLeus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ### 🔝 Top Contributed Repo
   ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AxcelDeLeus&limit=5&theme=dark&combine_all_yearly_contributions=true)
