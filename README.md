@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header](C:\Users\AXCEL\Downloads\axcelbanner.png)
+  ![Header](axcelbanner.png)
   <h1>💫 About Me:</h1>
   <p>Hello there! I'm a 19-year-old resident of Soldiers Hills 4, Alonzo Comp. in Bacoor City, Cavite, currently embarking on an exciting journey as a first-year student at Cavite State University - Bacoor City Campus. My name is Axcel, and I'm passionate about technology, which is why I've chosen to pursue a Bachelor of Science in Information Technology (BSIT) program. With a keen interest in coding and software development, I'm eager to dive into my studies and explore the endless possibilities that the field of IT offers.</p>
 
